@@ -26,7 +26,7 @@ Profesional enfocado en la transformación de datos crudos en decisiones estrat�
 ---
 
 ### Contacto
-* Perfil de LinkedIn: [in/jos%C3%A9-paz-rangel-rojas-9a49b7334](https://www.linkedin.com/in/jos%C3%A9-paz-rangel-rojas-9a49b7334)
+* Perfil de LinkedIn: in/jos%C3%A9-paz-rangel-rojas-9a49b7334](https://www.linkedin.com/in/jos%C3%A9-paz-rangel-rojas-9a49b7334
 * Consultoría: http://soltecmty.com
 
 *"Resiliencia y consistencia en el desarrollo de soluciones basadas en datos."*
