@@ -1,7 +1,7 @@
 # José Paz Rangel Rojas
 ### Analista de Datos y Consultor Estratégico
 
-Profesional enfocado en la transformación de datos crudos en decisiones estratégicas. Actualmente aplico modelos de Machine Learning y análisis estadístico para optimizar procesos en el sector inmobiliario y consultoría privada.
+Profesional enfocado en la transformación de datos crudos en decisiones estratégicas. Actualmente aplico modelos de análisis estadístico para optimizar procesos en el sector inmobiliario y consultoría privada.
 
 ---
 
